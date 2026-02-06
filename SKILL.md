@@ -30,6 +30,11 @@ references/
 
 - `http://test2.m-team.cc/api` - Generated server url
 
+## Authentication
+
+Set the `x-api-key` header on every request. Read its value from the
+`MTEAM_API_ACCESS_TOKEN` environment variable.
+
 ## Resources
 
 - **種子** → `references/resources/.md` (32 ops)
