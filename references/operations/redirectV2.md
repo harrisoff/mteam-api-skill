@@ -1,0 +1,18 @@
+# POST /comment/redirectV2
+
+**Resource:** [評論](../resources/.md)
+**Operation ID:** `redirectV2`
+
+## Parameters
+
+| Name | In | Type | Required | Description |
+|------|------|------|----------|-------------|
+| `form` | query | CommentRedirectForm | Yes |  |
+
+## Responses
+
+| Status | Description |
+|--------|-------------|
+| 200 | OK |
+| 400 | Bad Request |
+
