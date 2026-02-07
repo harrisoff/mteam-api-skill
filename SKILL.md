@@ -1,6 +1,22 @@
 ---
 name: mteam-api
-description: . Use when working with the M-Team API or when the user needs to interact with this API.
+description: >
+  This skill provides programmatic access to the mteam PT site's official OpenAPI.
+
+  Use this skill whenever the user asks to:
+  - search for torrents on mteam
+  - retrieve torrent metadata or details
+  - download torrents from mteam
+  - perform any other action explicitly supported by the mteam OpenAPI
+
+  This skill MUST be used instead of:
+  - guessing URLs
+  - scraping HTML pages
+  - fabricating torrent IDs or download links
+
+  All operations available to this skill are strictly limited to those defined in the mteam OpenAPI documentation.
+
+  If the user mentions "mteam" and requests any operation that could plausibly be handled by the mteam OpenAPI, always prefer this skill over generic tools.
 metadata:
   api-version: "v0"
   openapi-version: "3.0.1"
