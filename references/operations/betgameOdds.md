@@ -1,6 +1,6 @@
 # POST /bet/betgameOdds
 
-**Resource:** [菠菜](../resources/.md)
+**Resource:** [菠菜](../resources/菠菜.md)
 **Operation ID:** `betgameOdds`
 
 ## Parameters

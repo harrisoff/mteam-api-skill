@@ -1,6 +1,6 @@
 # POST /invite/sendInvite
 
-**Resource:** [邀請](../resources/.md)
+**Resource:** [邀請](../resources/邀請.md)
 **Operation ID:** `sendInvite`
 
 ## Parameters

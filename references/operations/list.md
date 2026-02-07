@@ -1,6 +1,6 @@
 # POST /menu/list
 
-**Resource:** [導航菜單](../resources/.md)
+**Resource:** [導航菜單](../resources/導航菜單.md)
 **Operation ID:** `list`
 
 ## Responses

@@ -1,6 +1,6 @@
 # POST /invite/getUserInviteInfo
 
-**Resource:** [邀請](../resources/.md)
+**Resource:** [邀請](../resources/邀請.md)
 **Operation ID:** `getUserInviteInfo`
 
 ## Parameters

@@ -1,6 +1,6 @@
 # POST /poll/first
 
-**Resource:** [首頁投票](../resources/.md)
+**Resource:** [首頁投票](../resources/首頁投票.md)
 **Operation ID:** `first`
 
 ## Responses

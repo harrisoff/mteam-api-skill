@@ -1,6 +1,6 @@
 # POST /bet/delBetgameOpt
 
-**Resource:** [菠菜](../resources/.md)
+**Resource:** [菠菜](../resources/菠菜.md)
 **Operation ID:** `delBetgameOpt`
 
 ## Parameters

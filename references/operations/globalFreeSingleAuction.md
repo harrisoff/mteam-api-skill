@@ -1,6 +1,6 @@
 # POST /mall/globalFreeSingleAuction
 
-**Resource:** [積分商店](../resources/.md)
+**Resource:** [積分商店](../resources/積分商店.md)
 **Operation ID:** `globalFreeSingleAuction`
 
 ## Parameters

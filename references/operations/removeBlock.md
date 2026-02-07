@@ -1,6 +1,6 @@
 # POST /friends/removeBlock
 
-**Resource:** [好友](../resources/.md)
+**Resource:** [好友](../resources/好友.md)
 **Operation ID:** `removeBlock`
 
 ## Parameters

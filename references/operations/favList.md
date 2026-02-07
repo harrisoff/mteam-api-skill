@@ -1,6 +1,6 @@
 # POST /seek/favList
 
-**Resource:** [求種](../resources/.md)
+**Resource:** [求種](../resources/求種.md)
 **Operation ID:** `favList`
 
 ## Request Body

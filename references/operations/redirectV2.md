@@ -1,6 +1,6 @@
 # POST /comment/redirectV2
 
-**Resource:** [評論](../resources/.md)
+**Resource:** [評論](../resources/評論.md)
 **Operation ID:** `redirectV2`
 
 ## Parameters

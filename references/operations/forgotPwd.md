@@ -1,6 +1,6 @@
 # POST /member/forgotPwd
 
-**Resource:** [用戶](../resources/.md)
+**Resource:** [用戶](../resources/用戶.md)
 **Operation ID:** `forgotPwd`
 
 ## Parameters

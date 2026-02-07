@@ -1,6 +1,6 @@
 # POST /media/douban/infoV2
 
-**Resource:** [種子](../resources/.md)
+**Resource:** [種子](../resources/種子.md)
 **Operation ID:** `doubanInfoV2`
 
 ## Parameters

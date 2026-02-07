@@ -1,6 +1,6 @@
 # POST /system/news
 
-**Resource:** [系統](../resources/.md)
+**Resource:** [系統](../resources/系統.md)
 **Operation ID:** `news`
 
 ## Responses

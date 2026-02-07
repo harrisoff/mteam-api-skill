@@ -1,6 +1,6 @@
 # POST /staffbox/post
 
-**Resource:** [管理組信箱](../resources/.md)
+**Resource:** [管理組信箱](../resources/管理組信箱.md)
 **Operation ID:** `post`
 
 ## Request Body

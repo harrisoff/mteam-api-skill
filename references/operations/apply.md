@@ -1,6 +1,6 @@
 # POST /links/apply
 
-**Resource:** [友情連結](../resources/.md)
+**Resource:** [友情連結](../resources/友情連結.md)
 **Operation ID:** `apply`
 
 ## Request Body

@@ -1,6 +1,6 @@
 # POST /friends/addFriend
 
-**Resource:** [好友](../resources/.md)
+**Resource:** [好友](../resources/好友.md)
 **添加好友**
 **Operation ID:** `addFriend`
 

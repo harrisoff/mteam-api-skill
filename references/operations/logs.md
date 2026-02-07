@@ -1,6 +1,6 @@
 # POST /credit/logs
 
-**Resource:** [積分流水](../resources/.md)
+**Resource:** [積分流水](../resources/積分流水.md)
 **Operation ID:** `logs`
 
 ## Request Body

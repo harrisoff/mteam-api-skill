@@ -1,6 +1,6 @@
 # POST /media/douban/elessarV2
 
-**Resource:** [種子](../resources/.md)
+**Resource:** [種子](../resources/種子.md)
 **Operation ID:** `doubanElessarInfoV2`
 
 ## Parameters

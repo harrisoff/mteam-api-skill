@@ -1,6 +1,6 @@
 # POST /examine/getMyActiveList
 
-**Resource:** [考核](../resources/.md)
+**Resource:** [考核](../resources/考核.md)
 **Operation ID:** `getMyActiveList`
 
 ## Responses

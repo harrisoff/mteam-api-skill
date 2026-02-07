@@ -1,6 +1,6 @@
 # POST /laboratory/funcState
 
-**Resource:** [實驗室](../resources/.md)
+**Resource:** [實驗室](../resources/實驗室.md)
 **Operation ID:** `funcState`
 
 ## Responses

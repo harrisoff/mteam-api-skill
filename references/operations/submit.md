@@ -1,6 +1,6 @@
 # POST /seek/submit
 
-**Resource:** [求種](../resources/.md)
+**Resource:** [求種](../resources/求種.md)
 **Operation ID:** `submit`
 
 ## Parameters

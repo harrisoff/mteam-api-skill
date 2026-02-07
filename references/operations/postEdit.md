@@ -1,6 +1,6 @@
 # POST /forum/post/edit
 
-**Resource:** [論壇](../resources/.md)
+**Resource:** [論壇](../resources/論壇.md)
 **Operation ID:** `postEdit`
 
 ## Request Body

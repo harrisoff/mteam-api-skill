@@ -1,6 +1,6 @@
 # POST /system/unix
 
-**Resource:** [系統](../resources/.md)
+**Resource:** [系統](../resources/系統.md)
 **Operation ID:** `unix`
 
 ## Responses

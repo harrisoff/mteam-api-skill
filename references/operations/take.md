@@ -1,6 +1,6 @@
 # POST /seek/take
 
-**Resource:** [求種](../resources/.md)
+**Resource:** [求種](../resources/求種.md)
 **Operation ID:** `take`
 
 ## Parameters

@@ -1,6 +1,6 @@
 # POST /torrent/sourceList
 
-**Resource:** [種子](../resources/.md)
+**Resource:** [種子](../resources/種子.md)
 **Operation ID:** `sourceList`
 
 ## Responses

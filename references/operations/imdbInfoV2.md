@@ -1,6 +1,6 @@
 # POST /torrent/v2/imdbInfo
 
-**Resource:** [種子](../resources/.md)
+**Resource:** [種子](../resources/種子.md)
 **Operation ID:** `imdbInfoV2`
 ⚠️ **Deprecated**
 

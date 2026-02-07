@@ -1,6 +1,6 @@
 # POST /offer/vote
 
-**Resource:** [種子候選](../resources/.md)
+**Resource:** [種子候選](../resources/種子候選.md)
 **Operation ID:** `vote`
 
 ## Parameters

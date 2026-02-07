@@ -1,6 +1,6 @@
 # POST /comment/del
 
-**Resource:** [評論](../resources/.md)
+**Resource:** [評論](../resources/評論.md)
 **Operation ID:** `del`
 
 ## Parameters

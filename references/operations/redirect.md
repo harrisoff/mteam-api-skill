@@ -1,6 +1,6 @@
 # GET /comment/redirect
 
-**Resource:** [評論](../resources/.md)
+**Resource:** [評論](../resources/評論.md)
 **Operation ID:** `redirect`
 
 ## Parameters

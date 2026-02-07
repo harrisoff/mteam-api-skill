@@ -1,6 +1,6 @@
 # POST /bet/addBetgameOpt
 
-**Resource:** [菠菜](../resources/.md)
+**Resource:** [菠菜](../resources/菠菜.md)
 **Operation ID:** `addBetgameOpt`
 
 ## Request Body

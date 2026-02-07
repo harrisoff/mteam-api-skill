@@ -1,6 +1,6 @@
 # POST /album/albumCreate
 
-**Resource:** [片單](../resources/.md)
+**Resource:** [片單](../resources/片單.md)
 **Operation ID:** `albumCreate`
 
 ## Request Body

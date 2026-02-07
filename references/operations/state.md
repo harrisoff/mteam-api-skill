@@ -1,6 +1,6 @@
 # POST /bet/state
 
-**Resource:** [菠菜](../resources/.md)
+**Resource:** [菠菜](../resources/菠菜.md)
 **狀態資訊**
 **Operation ID:** `state`
 

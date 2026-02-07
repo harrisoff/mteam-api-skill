@@ -1,6 +1,6 @@
 # POST /msg/statistic
 
-**Resource:** [站內信](../resources/.md)
+**Resource:** [站內信](../resources/站內信.md)
 **Operation ID:** `statistic`
 
 ## Responses

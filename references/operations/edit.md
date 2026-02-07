@@ -1,6 +1,6 @@
 # POST /fun/edit
 
-**Resource:** [首頁趣味盒](../resources/.md)
+**Resource:** [首頁趣味盒](../resources/首頁趣味盒.md)
 **Operation ID:** `edit`
 
 ## Request Body

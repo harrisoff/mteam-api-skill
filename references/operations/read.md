@@ -1,6 +1,6 @@
 # POST /msg/read
 
-**Resource:** [站內信](../resources/.md)
+**Resource:** [站內信](../resources/站內信.md)
 **Operation ID:** `read`
 
 ## Parameters

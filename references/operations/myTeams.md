@@ -1,6 +1,6 @@
 # POST /team/myTeams
 
-**Resource:** [聯盟小組](../resources/.md)
+**Resource:** [聯盟小組](../resources/聯盟小組.md)
 **Operation ID:** `myTeams`
 
 ## Responses

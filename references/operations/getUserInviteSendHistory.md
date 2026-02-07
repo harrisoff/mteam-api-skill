@@ -1,6 +1,6 @@
 # POST /invite/getUserInviteSendHistory
 
-**Resource:** [邀請](../resources/.md)
+**Resource:** [邀請](../resources/邀請.md)
 **Operation ID:** `getUserInviteSendHistory`
 
 ## Parameters

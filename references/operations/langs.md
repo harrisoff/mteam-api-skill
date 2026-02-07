@@ -1,6 +1,6 @@
 # POST /subtitle/langs
 
-**Resource:** [字幕](../resources/.md)
+**Resource:** [字幕](../resources/字幕.md)
 **Operation ID:** `langs`
 
 ## Responses

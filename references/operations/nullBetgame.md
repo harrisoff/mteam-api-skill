@@ -1,6 +1,6 @@
 # POST /bet/nullBetgame
 
-**Resource:** [菠菜](../resources/.md)
+**Resource:** [菠菜](../resources/菠菜.md)
 **Operation ID:** `nullBetgame`
 
 ## Parameters
