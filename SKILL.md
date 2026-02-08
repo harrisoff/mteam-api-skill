@@ -48,8 +48,7 @@ references/
 
 ## Authentication
 
-Set the `x-api-key` header on every request. Read its value from the
-`MTEAM_API_ACCESS_TOKEN` environment variable.
+Set the `x-api-key` header on every request. Read its value from the `MTEAM_API_ACCESS_TOKEN` environment variable.
 
 ## Resources
 
