@@ -44,7 +44,7 @@ references/
 
 ## Base URL
 
-- `http://test2.m-team.cc/api` - Generated server url
+- `https://api.m-team.cc/api` - Generated server url
 
 ## Authentication
 
