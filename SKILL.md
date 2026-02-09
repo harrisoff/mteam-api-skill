@@ -46,6 +46,18 @@ references/
 
 - `https://api.m-team.cc/api` - Generated server url
 
+## HTTP Requirements
+
+The M-Team API rejects requests that identify themselves as `curl` or `libcurl` via the `User-Agent` header.
+
+The agent MUST explicitly set a non-curl `User-Agent` string for every request sent by `curl` or `libcurl`.
+
+### Recommended User-Agent
+
+A descriptive, non-curl User-Agent is recommended, for example: `User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36`
+
+The exact value is not important, as long as it does not identify as `curl` or `libcurl`.
+
 ## Authentication
 
 Set the `x-api-key` header on every request. Read its value from the `MTEAM_API_ACCESS_TOKEN` environment variable.
