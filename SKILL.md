@@ -80,3 +80,16 @@ Set the `x-api-key` header on every request. Read its value from the `MTEAM_API_
 - **導航菜單** → `references/resources/導航菜單.md` (1 ops) - 導航菜單相關 API
 - **考核** → `references/resources/考核.md` (1 ops) - 考核相關 API
 - **積分流水** → `references/resources/積分流水.md` (1 ops) - 積分流水相關 API
+
+## ⚠️ Torrent Selection Policy
+
+The agent MUST NOT arbitrarily choose a torrent when multiple candidates are available without applying a policy-based evaluation.
+
+When a search operation returns multiple candidate torrents, the agent MUST select the most appropriate torrent based on user-defined policies in the `policies/*.md` files.
+
+Policy may include (but are not limited to):
+- resolution (e.g. 2160p, 1080p, 720p)
+- file size constraints
+- video codec
+- source type (BluRay, WEB-DL, etc.)
+- exclusion rules (e.g. CAM, TS)
